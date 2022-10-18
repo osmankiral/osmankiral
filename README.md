@@ -1,6 +1,7 @@
-- 👋 Merhaba, ben Osman Kıral
-- 👀 Web programlama ile ilgileniyorum.
-- 🌱 Şuan patika.dev'in Front-End eğitimini almaktayım.
-- 📫 Mail adresim: osman.kiral96@gmail.com
+- 👋 Hi, I am Osman Kıral
+- 👀 Junior Software Developer | C# .Net Core | Web Programming
+- 🌱 I am interested in web programming. I’m currently learning React.
+- 📫 Mail: osman.kiral96@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/osmankiral/
 
 
