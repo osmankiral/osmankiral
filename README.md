@@ -1,7 +1,7 @@
 # **🧑‍💻 About Me**
 - 🙋‍♂️ Hi, I am Osman Kıral
 - 🌐 I am interested in web programming.
-- 🎨 Front End Developer => HTML | CSS(Bootstrap, Tailwind, AntDesign,Material UI) | Javascript | React.js | Redux | Next.js | Typescript
+- 🎨 Front End Developer => HTML | CSS(Bootstrap, Tailwind, AntDesign, Material UI) | Javascript | React.js | Redux | Next.js | Typescript
 - 🔧 Back End Developer => Node.js | Express.js | MongoDB
 - ✉️ Mail: osman.kiral96@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/osmankiral/
