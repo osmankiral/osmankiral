@@ -6,7 +6,7 @@
 - ✉️ Mail: osman.kiral96@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/osmankiral/
 
-# **🚀 PROJELERİM**
+# **🚀 My Projects**
 - [Student Graduation System](https://github.com/osmankiral/student-graduation-system)
 - [Hazine Durağı E-Commerce Project](https://github.com/osmankiral/Hazine-Duragi-E-Commerce-Project)
 - [E-Commerce Website](https://github.com/osmankiral/react-ecommerce-website)
